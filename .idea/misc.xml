@@ -5,6 +5,8 @@
       <map>
         <entry key="..\:/Documents/Workspace/Android Programming The Big Nerd/CriminalIntent/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
         <entry key="..\:/Documents/Workspace/Android Programming The Big Nerd/CriminalIntent/app/src/main/res/layout/fragment_crime_detail.xml" value="0.25" />
+        <entry key="..\:/Documents/Workspace/Android Programming The Big Nerd/CriminalIntent/app/src/main/res/layout/fragment_crime_list.xml" value="0.253125" />
+        <entry key="..\:/Documents/Workspace/Android Programming The Big Nerd/CriminalIntent/app/src/main/res/layout/list_item_crime.xml" value="0.33" />
       </map>
     </option>
   </component>
